@@ -1,6 +1,4 @@
-#Assignment
-
-This is a short assigment. 
+# Assignment 1
 
 Watching the video on the terminal and github, you will use both to merge the 2-HTML branch into yours.
 
@@ -18,4 +16,3 @@ Steps:
 Now look in your files. Notice that there is a 2nd folder called 2-HTML. Git merge has added these changes from the 2-HTML branch to yours. 
 
 You can now do the 2-HTML Lesson and Assignment.
-
